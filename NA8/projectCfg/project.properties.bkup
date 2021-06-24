@@ -1,7 +1,7 @@
 #Project Attributes.
 #TunerStudio by EFI Analytics, Inc
-#Last Saved on: Sat May 01 16:42:04 CDT 2021
-#Sat May 01 16:42:04 CDT 2021
+#Last Saved on: Sat May 01 16:55:01 CDT 2021
+#Sat May 01 16:55:01 CDT 2021
 prgm_out_configProgrammable\ outputs_width=309
 prgm_out_configProgrammable\ outputs_Y=282
 CommSettingDESKTOP-KMLCJMCCommDriver.RS232\ Serial\ InterfaceCom\ Port=COM8
@@ -19,6 +19,7 @@ engine_constantsEngine\ Constants_Y=186
 engine_constantsEngine\ Constants_X=416
 engine_constantsEngine\ Constants_width=532
 ASEAfterstart\ Enrichment(ASE)_height=790
+PersistedAccumulatedValue_(\ tsInputSpeedMPH\ /\ 3600.0\ *\ deltatime\ )=0.0
 veTableDialogVE\ Table_Y=188
 veTableDialogVE\ Table_X=397
 idleUpSettingsIdle\ Up\ Settings_width=293
@@ -148,7 +149,7 @@ afrTable1TblAFR\ Table_Y=246
 afrTable1TblAFR\ Table_X=403
 projectName=NA8
 serial3IOSecondary\ Serial\ IO\ interface_width=738
-gaugeLimitsGauge\ Limits_Y=303
 vssSettingsVSS\ and\ Gear\ detection_Y=216
-gaugeLimitsGauge\ Limits_X=538
+gaugeLimitsGauge\ Limits_Y=303
 vssSettingsVSS\ and\ Gear\ detection_X=491
+gaugeLimitsGauge\ Limits_X=538
